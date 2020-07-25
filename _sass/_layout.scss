@@ -1,0 +1,228 @@
+/**
+ * Site header
+ */
+.site-header {
+    background-color: #f0f1f2;
+    border-top: 5px solid $brand-color;
+    border-bottom: 1px solid $grey-color-light;
+    min-height: 56px;
+
+    // Positioning context for the mobile navigation icon
+    position: relative;
+}
+
+.site-title {
+    display: flex;
+    align-items: flex-start;
+    font-size: 1.1em;
+    padding: $spacing-unit 0;
+
+    > * {
+        display: flex;
+        flex: 0 0 auto;
+        margin-right: .3em;
+    }
+
+    .title {
+        color: $text-color;
+    }
+
+    img {
+        display: block;
+        margin-right: .3em;
+    }
+
+    span {
+      margin-top: 7px;
+    }
+
+    .separator {
+        /* display: none; */
+        opacity: .4;
+        justify-content: center;
+    }
+
+    .slogan {
+        flex: 1 1 auto;
+        opacity: .4;
+    }
+}
+
+
+/**
+ * Site footer
+ */
+.site-footer {
+    border-top: 1px solid $grey-color-light;
+    padding: $spacing-unit 0;
+}
+
+.footer-heading {
+    font-size: $small-font-size;
+    margin-bottom: $spacing-unit / 2;
+}
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+    font-size: $small-font-size;
+}
+
+.social-media-list {
+    li {
+        display: inline-block;
+        margin-right: $spacing-unit / 2;
+    }
+
+    .name {
+        display: none;
+    }
+}
+
+
+/**
+ * Page content
+ */
+.page-content {
+    padding: $spacing-unit 0;
+}
+
+.page-heading {
+    font-size: $medium-font-size;
+}
+
+.page-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+
+    margin-bottom: $spacing-unit;
+    border-bottom: 2px solid $grey-color-light;
+    padding: $spacing-unit / 5 0; 
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    .post-title {
+        margin-bottom: 0;
+        font-size: $medium-font-size;
+    }
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.post-link {
+    display: block;
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+    /* margin-bottom: $spacing-unit; */
+}
+
+article {
+    .post-title {
+        font-size: 42px;
+        line-height: 1;
+
+        @include media-query($on-laptop) {
+            font-size: 36px;
+        }
+    }
+
+    #spoilers {
+        display: none;
+    }
+
+    #spoilers:target {
+        display: block;
+    }
+}
+
+
+.post-content {
+    h2 {
+        font-size: 32px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+}
+
+a,
+a:visited {
+    text-decoration: none;
+    color: #4d99e0;
+    transition: color 0.3s ease;
+}
+
+a:hover,
+a:active,
+a:focus{
+    text-decoration: none;
+    color: #222324;
+}
+
+
+h1, h2, h3, h4 {
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+a.show-content {
+    display: inline-block;
+    margin: 1em 0;
+    font-weight: 700;
+}
+
+ul.spoiler-list,
+ul.game-list {
+    font-size: $small-font-size;
+    margin: 0;
+    list-style: none;
+
+    > li {
+        display: inline-block;
+        margin-right: $spacing-unit / 2;
+    }
+}
+
+.game-recommendations,
+.spoiler-warning {
+    h5 {
+        font-size: $small-font-size;
+        font-weight: 700;
+        margin-bottom: 0;
+    }
+}
+
+.spoiler-warning {
+    border-bottom: 5px solid $brand-color;
+    padding-bottom: $spacing-unit / 2;
+}

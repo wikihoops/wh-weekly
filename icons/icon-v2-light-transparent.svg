@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 256 256"
+   height="256"
+   width="256">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-796.36219)"
+     id="layer1">
+    <g
+       id="g4274">
+      <g
+         transform="translate(-347,-95.142937)"
+         id="g4197">
+        <path
+           id="path3351-9"
+           transform="translate(347,891.50513)"
+           d="M 128 10 A 118 118 0 0 0 10 128 A 118 118 0 0 0 128 246 A 118 118 0 0 0 246 128 A 118 118 0 0 0 128 10 z M 128.10742 80.34375 C 129.82654 80.34375 131.32994 81.417646 131.97461 82.921875 L 157.97656 140.29688 L 180.96875 85.5 C 181.82831 83.565991 183.54837 82.277344 185.69727 82.277344 L 206.75586 82.277344 C 208.26009 82.277344 209.33412 83.995771 208.68945 85.5 L 162.27344 189.50781 C 161.84366 190.79715 160.55501 191.65625 159.05078 191.65625 C 157.54655 191.65625 156.25795 190.79715 155.61328 189.50781 L 128.10742 131.70117 L 100.60156 189.50781 C 99.956893 190.79715 98.666338 191.65625 97.162109 191.65625 C 95.65788 191.65625 94.369279 190.79715 93.724609 189.50781 L 47.308594 85.5 C 46.663924 83.995771 47.737912 82.277344 49.457031 82.277344 L 70.515625 82.277344 C 72.664523 82.277344 74.384586 83.565991 75.244141 85.5 L 98.236328 140.29688 L 124.23828 82.921875 C 124.88295 81.417646 126.3883 80.34375 128.10742 80.34375 z "
+           style="fill:#f0f1f2;fill-opacity:1" />
+        <g
+           id="flowRoot4169-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Halis R';-inkscape-font-specification:'Halis R Bold';letter-spacing:0px;word-spacing:0px;fill:#f0f1f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(1.1938325,0,0,1.1938325,302.15027,870.2606)" />
+      </g>
+    </g>
+  </g>
+</svg>

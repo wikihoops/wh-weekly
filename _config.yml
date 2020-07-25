@@ -1,0 +1,49 @@
+# Site settings
+title: Wikihoops Weekly
+slogan: spoiler-free NBA recaps, previews and analysis
+
+baseurl: ""
+url: https://weekly.wikihoops.com
+timezone: America/New_York
+
+twitter_username: wikihoops
+github_username:  wikihoops
+email: weekly@wikihoops.com
+
+description: >
+  We recap the past week in the NBA, preview the next and take a closer look 
+  at what’s happening on the courts around the league. As always without spoilers.
+disclaimer: >
+  The National Basketball Association ("NBA") and the names of the NBA teams are trademarks 
+  that are property of NBA Properties, Inc. and the member teams of the NBA. 
+  These trademark holders are not affiliated with, nor do they sponsor or endorse this site.
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: wikihoops
+      title: "Wikihoops Weekly"
+      spoilers: []
+      game_recommendations: []
+      excerpt_separator: <!--spoilers-->
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+collections:
+  authors:
+    output: true
+
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: false

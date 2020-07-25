@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% if site.description %}
+  <p class="page-meta">
+    {{ site.description }}
+  </p>
+  {% endif %}
+  
+  {% assign num_posts = site.posts | size %}
+  {% if num_posts > 0 %}
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2 class="post-title">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        {% assign author = site.authors | where: 'short_name', post.author | first %}
+
+        <p class="post-meta">{% if author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></span> • {% endif %}<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time></p>
+
+        <div class="post-excerpt" itemprop="articleBody">
+          {{ post.excerpt }}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="page-meta">There's nothing here.</p>
+  {% endif %}
+</div>
