@@ -3,9 +3,9 @@ window.addEventListener('load', () => {
   // Open video links in modal window
   document.querySelectorAll('a[href$=".mp4"]').forEach(a => {
     a.addEventListener('click', (e) => {
-      e.preventDefault();
       // Need SweetAlert for all this
       if (typeof Swal !== "function") return;
+      e.preventDefault();
       Swal.fire({
         html: `<video src="${a.href}" autoplay controls></video>`,
         background: "#222324",
