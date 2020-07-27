@@ -1,12 +1,10 @@
 // All resources loaded
 window.addEventListener('load', () => {
-
   // Open video links in modal window
-  const videoLinks = document.querySelectorAll('a[href$=".mp4"]');
-  for (let i = 0; i < videoLinks.length; i++) {
-    const a = videoLinks[i];
+  document.querySelectorAll('a[href$=".mp4"]').forEach(a => {
     a.addEventListener('click', (e) => {
       e.preventDefault();
+      // Need SweetAlert for all this
       if (typeof Swal !== "function") return;
       Swal.fire({
         html: `<video src="${a.href}" autoplay controls></video>`,
@@ -19,6 +17,5 @@ window.addEventListener('load', () => {
         showCancelButton: false
       });
     });
-  }
-
+  });
 });
