@@ -6,7 +6,7 @@ game_recommendations: [LA Lakers vs LA Clippers (07/30) , MEM Grizzlies vs POR T
 published: False 
 ---
 
-It took long negotiations and a logistical nightmare but the NBA has officially returned with games actually matter. And just as we'd expect it does it with another classic clash between the LA teams, followed by an intense weekend with more games than what you can handle. Was it any good? What intensity are we seeing as teams ramp up? We go through some of the week's highlights and then we're gonna zone in a thriller between two teams still deep in the fight to play summer basketball. 
+It took long negotiations and a logistical nightmare but the NBA has officially returned with games that actually matter. And just as we'd expect it does it with another classic clash between the LA teams, followed by an intense weekend with more games than what you can handle. Was it any good? What intensity are we seeing as teams ramp up? We go through some of the week's highlights and then we're gonna zone in a thriller between two teams still deep in the fight to play summer basketball. 
 
 <!--spoilers-->
 
@@ -14,7 +14,7 @@ Because this is the first time you will be seeing this: This is _Wikihoops Weekl
 
 ### Recap: Orlando's new main attraction had us all standing still
 
-No game had more eyes on it than the new chapter in the **Lakers vs Clippers** series. Tthe Clippers offense is overstressed without Lou and Harrell, the way Anthony Davis - 34 points and 8 boards - is still an unsolvable problem does not have an easy fix in sight. The Clippers used their ultra-switch ready lineup with JaMychal Green and Marcus Morris at the 4 and 5 but none of those players can contain "the Brow" in the paint or box him out. Kuzma has become a much more capable defender and using him as an easy point of attack seems to be also out of the table (something the Clippers cannot say about Lou Williams). There is no need to panic as of yet, but a lot of strategic thinking need to be made with urgency.
+No game had more eyes on it than the new chapter in the **Lakers vs Clippers** series. The Clippers offense is overstressed without Lou and Harrell but the way Anthony Davis - 34 points and 8 boards - is still an unsolvable problem does not have an easy fix in sight. The Clippers used their ultra-switch ready lineup with JaMychal Green and Marcus Morris at the 4 and 5 but none of those players can contain "the Brow" in the paint or box him out. Kuzma has become a much more capable defender and using him as an easy point of attack seems to be also out of the table (something the Clippers cannot say about Lou Williams). There is no need to panic as of yet, but a lot of strategic thinking need to be made with urgency.
 
 I will give a lot more focus to the Memphis-Blazers game later so let us turn to another overtime showdown in the **Mavericks vs Rockets** headliner. Dallas will be wondering how they allowed this game to slip away, ahead by 7 points with 45 seconds remaining. James Harden might have had the most successful unintentional free throw miss, resulting in Covington's offensive rebound, but the fears about a Dallas team that was one of the worst clutch team of the league see renewed strength, just before the post-season. 
 
