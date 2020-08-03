@@ -8,9 +8,9 @@ published: True
 
 It took long negotiations and a logistical nightmare but the NBA has officially returned with games that actually matter. And just as we'd expect it does it with another classic clash between the LA teams, followed by an intense weekend with more games than what you can handle. Was it any good? What intensity are we seeing as teams ramp up? We go through some of the week's highlights and then we're gonna zone in a thriller between two teams still deep in the fight to play summer basketball. 
 
-<!--spoilers-->
-
 Because this is the first time you will be seeing this: This is _Wikihoops Weekly_. A segment where we'll provide you a short recap of the past week's events in basketball and a preview of what you might expect in the coming 7 days. At the end, for the biggest basketball geeks, one extra section that goes into more detail about a given topic. My name is Martim and everything about where to reach me you can find on my profile. Don't be afraid to send a message with feedback, ideas or if you just wanna talk hoops. With that out of the way, let's begin!
+
+<!--spoilers-->
 
 ### Recap: Orlando's new main attraction had us all standing still
 
