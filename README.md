@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: "/author-guidelines"
+permalink: "/author-guidelines/"
 ---
 
 ## Guidelines for Authors
