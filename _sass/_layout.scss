@@ -191,14 +191,14 @@ a:focus{
 
 
 h1, h2, h3, h4 {
-    font-weight: 700;
+    font-weight: $bold-font-weight;
     line-height: 1.2;
 }
 
 a.show-content {
     display: inline-block;
     margin: 1em 0;
-    font-weight: 700;
+    font-weight: $bold-font-weight;
 }
 
 ul.spoiler-list,
@@ -217,7 +217,7 @@ ul.game-list {
 .spoiler-warning {
     h5 {
         font-size: $small-font-size;
-        font-weight: 700;
+        font-weight: $bold-font-weight;
         margin-bottom: 0;
     }
 }

@@ -3,15 +3,15 @@
 ---
 @charset "utf-8";
 
-
-
-// Our variables
+$font-path:        "../css/fonts";
 $base-font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $medium-font-size: $base-font-size * 1.25;
 $base-line-height: 1.5;
+$regular-font-weight: 400;
+$bold-font-weight:    700;
 
 $spacing-unit:     30px;
 
@@ -29,8 +29,6 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
-
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -44,10 +42,27 @@ $on-laptop:        800px;
     }
 }
 
+@mixin font($font-family, $font-weight, $font-file) {
+  @font-face {
+    font-family: $font-family;
+    src: url($font-file+'.eot');
+    src: url($font-file+'.eot?#iefix') format('embedded-opentype'),
+         url($font-file+'.woff') format('woff'),
+         url($font-file+'.ttf') format('truetype'),
+         url($font-file+'.svg#aller') format('svg');
+    font-weight: $font-weight;
+    font-style: normal;
+  }
+}
+
+@include font('Lato', $regular-font-weight, $font-path+'/Lato/Lato-Regular');
+@include font('Lato Italic', $regular-font-weight, $font-path+'/Lato/Lato-Italic');
+@include font('Lato', $bold-font-weight, $font-path+'/Lato/Lato-Bold');
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "normalize",
         "base",
         "layout",
         "syntax-highlighting"
