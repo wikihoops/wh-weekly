@@ -63,6 +63,16 @@ For more details see [Markdown Syntax](https://daringfireball.net/projects/markd
 
 **\* Please avoid using level-1 headings (#)** as they are reserved for page titles.
 
+### Headlines
+
+Please use _Chicago Style_ to capitalize headlines. General rules are:
+
+- Capitalize the first word in the title
+- Capitalize the last word in the title
+- Capitalize the important words in the title
+
+If in doubt you can use [this tool](https://headlinecapitalization.com/).
+
 ### Embed HTML
 
 To embed HTML in your post use `nomarkdown` tags:
