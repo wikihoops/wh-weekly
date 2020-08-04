@@ -5,6 +5,10 @@ permalink: "/author-guidelines"
 
 ## Guidelines for Authors
 
+### New Writers
+
+If you would like to contribute, please contact one of [the contributors](https://github.com/wikihoops/wh-weekly/graphs/contributors) as a first step.
+
 ### New Posts
 
 To create a post, add a file to the `_posts` directory with the following format:
@@ -58,3 +62,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. You c
 For more details see [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax).
 
 **\* Please avoid using level-1 headings (#)** as they are reserved for page titles.
+
+### Embed HTML
+
+To embed HTML in your post use `nomarkdown` tags:
+
+    {::nomarkdown}
+      <div class="some-example-HTML">
+        ...
+      </div>
+      <script>
+        /* ... */
+      </script>
+    {:/nomarkdown}

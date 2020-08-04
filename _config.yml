@@ -6,8 +6,8 @@ baseurl: ""
 url: https://weekly.wikihoops.com
 timezone: America/New_York
 
-twitter_username: wikihoops
-github_username:  wikihoops
+twitter: wikihoops
+github:  wikihoops/wh-weekly
 email: weekly@wikihoops.com
 
 description: >

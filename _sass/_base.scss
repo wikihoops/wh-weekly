@@ -8,14 +8,6 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
-/**
- * Smooth scrolling
- */
-html {
-    scroll-behavior: smooth;
-}
-
 /**
  * Basic styling
  */
@@ -49,6 +41,7 @@ ul, ol, dl, figure,
  * Video
  */
 video {
+    display: block;
     width: 100%;
 }
 

@@ -7,15 +7,15 @@
         {% include icon-wikihoops.html %}
       </li>
 
-      {% if site.github_username %}
+      {% if site.github %}
       <li>
-        {% include icon-github.html username=site.github_username %}
+        {% include icon-github.html github=site.github %}
       </li>
       {% endif %}
 
-      {% if site.twitter_username %}
+      {% if site.twitter %}
       <li>
-        {% include icon-twitter.html username=site.twitter_username %}
+        {% include icon-twitter.html twitter=site.twitter %}
       </li>
       {% endif %}
       <li class="rss-subscribe"><a href="{{ '/feed.xml' | prepend: site.baseurl }}">Subscribe via RSS</a></li>
