@@ -50,4 +50,4 @@ The Lakers will miss Avery Bradley's spacing but will mostly miss the pressure h
 
 The 2019-20 Los Angeles Lakers are a flawed team but what has been fun about this season is a new crop of contenders that all of them present their uncertainties and cracks in the arbor. It's the team that rises above them that will be crowned, for better or for worst, an unforgettable NBA champion.
 
-(Using Cleaning the Glass stats going forward unless stated otherwise)
+(Using Cleaning the Glass stats unless stated otherwise)
