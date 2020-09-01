@@ -3,7 +3,7 @@ title: The Bubble Sees History On and Off the Court
 author: martim
 spoilers: [2020-08-24-HOUvOKC, 2020-08-25-UTA-DEN, 2020-08-30-DEN-UTA]
 game_recommendations: [HOU Rockets v OKC Thunder (08/24), UTA Jazz v DEN Nuggets (08/25), DEN Nuggets v UTA Jazz (08/30)]
-published: False
+published: True
 ---
 
 Reality bursted in as unprecedented protests from the players resulted in a 3-day break, as they searched for guarantees of political action. In the limited basketball we saw, two high-altitude franchise decided that there aren't any offensive records they aren't willing to break. Let's recall what we went down last week and give a special look towards the series that finished during it.
