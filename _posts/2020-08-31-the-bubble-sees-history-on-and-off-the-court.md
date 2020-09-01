@@ -6,7 +6,7 @@ game_recommendations: [HOU Rockets v OKC Thunder (08/24), UTA Jazz v DEN Nuggets
 published: True
 ---
 
-Reality bursted in as unprecedented protests from the players resulted in a 3-day break, as they searched for guarantees of political action. In the limited basketball we saw, two high-altitude franchise decided that there aren't any offensive records they aren't willing to break. Let's recall what we went down last week and give a special look towards the series that finished during it.
+Reality bursted in as unprecedented protests from the players resulted in a 3-day break, as they searched for guarantees of political action. In the limited basketball we saw, two high-altitude franchises decided that there aren't any offensive records they aren't willing to break. Let's recall what we went down last week and give a special look towards the series that finished during it.
 
 <!--spoilers-->
 
