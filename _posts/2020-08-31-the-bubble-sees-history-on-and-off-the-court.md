@@ -6,13 +6,13 @@ game_recommendations: [HOU Rockets v OKC Thunder (08/24), UTA Jazz v DEN Nuggets
 published: True
 ---
 
-Reality bursted in as unprecedented protests from the players resulted in a 3-day break, as they searched for guarantees of political action. In the limited basketball we saw, two high-altitude franchises decided that there aren't any offensive records they aren't willing to break. Let's recall what we went down last week and give a special look towards the series that finished during it.
+Reality burst in as unprecedented protests from the players resulted in a 3-day break, as they searched for guarantees of political action. In the limited basketball we saw, two high-altitude franchises decided that there aren't any offensive records they aren't willing to break. Let's recall what went down last week and give a special look towards the series that finished during it.
 
 <!--spoilers-->
 
 ### Recap: The East Doesn't Linger ; Murray and Mitchell Soar
 
-This week should remembered by the reality that bursted through the NBA bubble. The rest of the league followed the Bucks behind one message: These giant letters on the court can't be some token you slap on the floor to get us to play - political action is necessary. It is not my job to discuss these issues but I would be remiss to pretend nothing happened and I have nothing but empathy and support for the players.
+This week should remembered by the reality that burst through the NBA bubble. The rest of the league followed the Bucks behind one message: These giant letters on the court can't be some token you slap on the floor to get us to play - political action is necessary. It is not my job to discuss these issues but I would be remiss to pretend nothing happened and I have nothing but empathy and support for the players.
 
 On the sports side, as Tuesday rolled around, only one series of the Eastern Conference first round was left to be decided. With 3 sweeps in 4 series (Boston, Miami and Toronto moving on), only the top team in the conference, the stunned-in-game-1 Milwaukee Bucks, had to endure the drag of a game 5 to send the Orland Magic to their nearby homes.
 
