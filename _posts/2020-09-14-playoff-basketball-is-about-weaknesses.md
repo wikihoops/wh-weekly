@@ -1,7 +1,7 @@
 ---
 title: Playoff Basketball is about Weaknesses
 author: martim
-spoilers: [2020-09-11-BOS-TOR, 2020-09-13-LAC-DEN, 2020-09-08-MIL-MIA, 2020-09-12-LAL-HOU]
+spoilers: [2020-09-11-BOS-TOR, 2020-09-13-LAC-DEN, 2020-09-08-MIA-MIL, 2020-09-12-HOU-LAL]
 game_recommendations: [TOR Raptors v BOS Celtics (09/09), DEN Nuggets v LA Clippers (09/13), DEN Nuggets v LA Clippers (09/11), TOR Raptors vs BOS Celtics (09/11)]
 published: False
 ---
