@@ -48,7 +48,7 @@ Giannis has apparently met with the Bucks ownership group, and while he did not 
 
 Their advantage will always be how Giannis really seems to care about the city and being a driver of success in that small NBA market. He's also a fierce competitor at heart and legends like Dirk Nowitzki - the NBA's previous once-in-a-lifetime European find - waited around and faced disappointment and criticism for as much as possible before achieving well-earned rewards and validation but Marc Stein will probably tell you that his status as a Dallas "lifer" hinged on that 2011 title. Though Giannis is much younger, the league moves a lot faster nowadays and talent tends to agglomerate in the "player-empowerment" era. It's a tough cross being on the list of the best players to never win a title.
 
-2022 is just around the corner. The entire league is watching. The groundwork for Antetokounmpo's future with the Bucks started being built last year and the foundational cracks are on full display.
+The entire league is watching. The groundwork for Antetokounmpo's future with the Bucks started being built last year and the foundational cracks are on full display.
 
 <sup>1</sup> <sub>We all know it. Can the NBA actually give out these awards when it matters? Is there anyone who actually likes the way it's being done recently?</sub>
 
