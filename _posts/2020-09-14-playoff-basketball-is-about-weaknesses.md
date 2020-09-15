@@ -28,7 +28,7 @@ But despite matchup hunting being essential against the switching defense the He
 
 The **Clippers** - **Nuggets** series stands as the last bastion of the second round. Game 7 will take place the same day as the first Eastern Finals game and the chips are down to see if the Clippers can play with intensity over 2 halves. Doc Rivers might live to regret it if he doesn't keep Harrell in the bench - the 6MOTY should not play a single minute against Jokic. The Lakers patiently await the team that emerges victorious.
 
-### In Focus: The Whispers in Milwaukee Have Turn to Screams
+### In Focus: The Whispers in Milwaukee Turn to Screams
 
 _The regular season is about your strengths but the playoffs are about your weaknesses_. I'm paraphrasing Nate Duncan but it's a valuable quote that could not apply more to the fallen contenders and Giannis Antetokounmpo himself.
 
