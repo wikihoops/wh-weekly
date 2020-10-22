@@ -133,7 +133,6 @@
 article {
     .post-title {
         font-size: 42px;
-        line-height: 1;
 
         @include media-query($on-laptop) {
             font-size: 36px;
